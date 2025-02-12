@@ -17,11 +17,6 @@ Code：1wtv
 Address：https://pan.baidu.com/s/1pjg1isceg46z9_527pxaxA?pwd=09bl 
 Code：09bl 
 
-## Dataset(Train,Test,Eval)
-
-Address：https://pan.baidu.com/s/1o2rW5NefJDTulvbtRawF4g?pwd=l4u7 
-Code：l4u7 
-
 ## Vgg Code
 
 Address：https://pan.baidu.com/s/1akPmW0Gcrb-i-Hx-ozNy7A?pwd=6t38 
