@@ -5,6 +5,8 @@ This repository includes the code, data sets, manuscripts used in the experiment
 
 Due to file size and regional restrictions, we will provide the following resource download addresses on Baidu Netdisk. Since the code is not carefully organized, you may not be able to run it directly. If you want to quickly obtain a runnable version, you can contact me through the above email address for help.
 
+Note: The dataset used in Section B: Performance Loss Experiment in Part V: Evaluation of the paper is the same as the third dataset in the 5-fold dataset.
+
 ## All Matrix File:
 
 Address：https://pan.baidu.com/s/16o05_oxwDp6KbfgRzGpfRA?pwd=1wtv 
