@@ -7,9 +7,9 @@ Due to file size and regional restrictions, we will provide the following resour
 
 Note: The dataset used in Section B: Performance Loss Experiment in Part V: Evaluation of the paper is the same as the third dataset in the 5-fold dataset.
 
-Correction:
+Correction and Explanation of the Paper:
 1. The confusion matrix of Fig8 is based on the label shown in the sub-figure title, and the sub-figure title is incorrect.
-2. The confusion matrices of Table I and Fig 8 correspond to each other and are from the same experimental data, but Table II is not from the same experimental data as Table I and Fig 8.
+2. Table I and the confusion matrices of Fig 8 correspond to each other and are from the same experimental data, but Table II is not from the same experimental data as Table I and Fig 8.
 
 ## All Matrix File:
 
